@@ -1,0 +1,20 @@
+{
+  "name": "entrega_final",
+  "author": "Matias Gabriel Cabrera",
+  "description": "Poryecto final para talento tech de una API REST en node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "type": "module",
+  "dependencies": {
+    "cors": "2.8.6",
+    "dotenv": "18.0.10",
+    "express": "5.3.0",
+    "firebase": "^13.2.0",
+    "jsonwebtoken": "9.0.3"
+  }
+}
